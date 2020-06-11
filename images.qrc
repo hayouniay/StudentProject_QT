@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/add.png</file>
+        <file>image/delete.png</file>
+        <file>image/exit.png</file>
+        <file>image/exit2.png</file>
+        <file>image/list.png</file>
+        <file>image/modify.png</file>
+        <file>image/student.jpg</file>
+        <file>image/univ.jpg</file>
+        <file>image/university.jpg</file>
+        <file>image/info.png</file>
+        <file>image/info2.png</file>
+    </qresource>
+</RCC>
